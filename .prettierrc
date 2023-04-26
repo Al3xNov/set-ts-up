@@ -1,0 +1,6 @@
+{
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "semi": false, // Specify if you want to print semicolons at the end of statements
+  "singleQuote": true // If you want to use single quotes
+}
